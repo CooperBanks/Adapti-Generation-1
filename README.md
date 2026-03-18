@@ -1,4 +1,4 @@
 # Adapti-Generation-1
 First of it's kind (I think) custom AI model that adapts to hardware and tasks. This is likely to become skynet, This is a bad idea...
 
-Note to self: Import the project details from public repo
+Note to self: Import the project details from old repo
